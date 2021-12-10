@@ -7,9 +7,21 @@ English presentation project of TDT
 - Brief exp on what git and Github is
 1.2. Mentioning alternatives and creating an account real quick + git
 1.3. Creating a repository - https://docs.github.com/en/get-started/quickstart/create-a-repo ; Fork == copy  
-1.4. Creating a branch //JD
-1.5. Uploading a file; using git to upload a file 
-1.6. Making a commit - stress on making it in the secondary branch
+    1.4. Creating a branch //JD
+    	what is a branch
+    	why is it important
+    	via web
+    	via cmd
+    	
+    1.5. Uploading a file; using git to upload a file
+    	- actually make your changes (CRUD)
+    	via web
+    	via cmd
+
+    1.6. Making a commit - stress on making it in the secondary branch
+    	what is a commit - the very step
+   	via web
+   	via cmd
 1.7. Comparing and removing mistakes/conflicts; Address review comments //Ahmad
 1.8. Merge/Pull request; approval of said request
 1.9. Example 
